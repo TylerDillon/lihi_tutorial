@@ -3,3 +3,4 @@ Members of the LIHI team, add your name to the list and push to the git repo. Be
 Team members:
 
 Tyler Dillon
+Mikey Wilson
