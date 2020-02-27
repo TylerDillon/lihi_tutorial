@@ -1,5 +1,5 @@
 const path = require('path');
-//require mysel in node modules to use it
+//require mysql in node modules to use it
 const mysql = require('mysql');
 const http = require('http');
 const express = require('express');
